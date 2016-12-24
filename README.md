@@ -2,7 +2,7 @@
 Program matematika sederhana menggunakan C++
 
 ### Checklist
-- [x] `case 1` untuk perhitungan penambahan dan pengurangan
+- [ ] `case 1` untuk perhitungan penambahan dan pengurangan
 - [ ] `case 2` untuk perhitungan perkalian dan pembagian
 - [ ] `case 3` untuk perhitungan perpangkatan dan akar kuadrat
 
