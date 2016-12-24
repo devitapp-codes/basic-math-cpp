@@ -25,11 +25,18 @@ int main() {
     break;
 
     case 2:
-    //perhitungan perkalian dan pembagian
+    	system("cls");
+    	cout << "Bilangan 1 : ";
+    	cin >> a;
+        cout << "Bilangan 2 : ";
+        cin >> b;
+        cout << "\n" << a << " x " << b << " = " << a*b << endl;
+        cout << a << " : " << b << " = " << a/b << endl;
+        system("pause");//perhitungan perkalian dan pembagian
     break;
 
     case 3:
-    // perhitungan perpangkatan dan akar kuadrat
+    	// perhitungan perpangkatan dan akar kuadrat
     break;
   }
 }
